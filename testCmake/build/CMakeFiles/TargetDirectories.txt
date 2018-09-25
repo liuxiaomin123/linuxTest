@@ -1,0 +1,3 @@
+/home/lxm/linuxTest/testCmake/build/CMakeFiles/edit_cache.dir
+/home/lxm/linuxTest/testCmake/build/CMakeFiles/rebuild_cache.dir
+/home/lxm/linuxTest/testCmake/build/CMakeFiles/hello.dir

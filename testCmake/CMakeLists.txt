@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(cmake_test)
+AUX_SOURCE_DIRECTORY(src DIR_SRCS)
+set(src_list ${DIR_SRCS})
+ADD_EXECUTABLE(hello ${src_list})
